@@ -1,0 +1,23 @@
+:root {
+  --landingpage-base: #2D221D;
+  --landingpage-base-rgb: 45, 34, 29;
+  --landingpage-gray2: #F3F3F3;
+  --landingpage-gray2-rgb: 243, 243, 243;
+  --landingpage-gray3: #E0E0E0;
+  --landingpage-gray3-rgb: 224, 224, 224;
+  --landingpage-gray4: #F9F4E8;
+  --landingpage-gray4-rgb: 249, 244, 232;
+  --landingpage-black2: #1E1E1E;
+  --landingpage-black2-rgb: 30, 30, 30;
+  --landingpage-black3: #351C42;
+  --landingpage-black3-rgb: 53, 28, 66;
+  --landingpage-brown: #CFA76E;
+  --landingpage-brown-rgb: 207, 167, 110;
+  --landingpage-brown2: #D6B256;
+  --landingpage-brown2-rgb: 214, 178, 86;
+  --landingpage-bramble: #5A2005;
+  --landingpage-bramble-rgb: 90, 32, 5;
+  --landingpage-pastel-grey: #DFCAB7;
+  --landingpage-pastel-grey-rgb: 223, 202, 183;
+}
+/*# sourceMappingURL=color-1.css.map */

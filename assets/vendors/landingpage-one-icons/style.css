@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'landingpage-one';
+  src:  url('fonts/landingpage-one3d7d.eot?opmacx');
+  src:  url('fonts/landingpage-one3d7d.eot?opmacx#iefix') format('embedded-opentype'),
+    url('fonts/landingpage-one3d7d.ttf?opmacx') format('truetype'),
+    url('fonts/landingpage-one3d7d.woff?opmacx') format('woff'),
+    url('fonts/landingpage-one3d7d.svg?opmacx#landingpage-one') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="landingpage-one-icon-"], [class*=" landingpage-one-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'landingpage-one' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.landingpage-one-icon-comments:before {
+  content: "\e914";
+}
+.landingpage-one-icon-user:before {
+  content: "\e915";
+}
+.landingpage-one-icon-right:before {
+  content: "\e913";
+}
+.landingpage-one-icon-cross:before {
+  content: "\e900";
+}
+.landingpage-one-icon-doctors:before {
+  content: "\e901";
+}
+.landingpage-one-icon-fasting:before {
+  content: "\e902";
+}
+.landingpage-one-icon-human-resources:before {
+  content: "\e903";
+}
+.landingpage-one-icon-kaaba:before {
+  content: "\e904";
+}
+.landingpage-one-icon-location:before {
+  content: "\e905";
+}
+.landingpage-one-icon-medical:before {
+  content: "\e906";
+}
+.landingpage-one-icon-medicine:before {
+  content: "\e907";
+}
+.landingpage-one-icon-nursing-home:before {
+  content: "\e908";
+}
+.landingpage-one-icon-nursing-staff:before {
+  content: "\e909";
+}
+.landingpage-one-icon-old-people:before {
+  content: "\e90a";
+}
+.landingpage-one-icon-paper-plane:before {
+  content: "\e90b";
+}
+.landingpage-one-icon-pray:before {
+  content: "\e90c";
+}
+.landingpage-one-icon-premium-quality:before {
+  content: "\e90d";
+}
+.landingpage-one-icon-quran:before {
+  content: "\e90e";
+}
+.landingpage-one-icon-up-right-arrow:before {
+  content: "\e90f";
+}
+.landingpage-one-icon-volunteering:before {
+  content: "\e910";
+}
+.landingpage-one-icon-zakat:before {
+  content: "\e911";
+}
+.landingpage-one-icon-play:before {
+  content: "\e912";
+}
+.landingpage-one-icon-quote:before {
+  content: "\e916";
+}
