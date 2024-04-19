@@ -7159,14 +7159,14 @@ body.megamenu-popup-active .mobile-nav__content {
 .mobile-nav__overlay {
   position: absolute;
   inset: 0px;
-  background-color: var(--landingpage-dark, #24102f);
+  background-color: #f15c5c4f;
   opacity: 0.7;
   cursor: url("../images/close.png"), auto;
 }
 
 .mobile-nav__content {
   width: 300px;
-  background-color: var(--landingpage-dark2, #200c2a);
+  background-color: #F15C5C;
   z-index: 10;
   position: relative;
   height: 100%;
